@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Dubli.com Application Test Automation Test Suite" duration-ms="48093" started-at="2018-12-26T14:44:28Z" finished-at="2018-12-26T14:45:16Z">
+    <groups>
+    </groups>
+    <test name="Dubli App Test Cases" duration-ms="48093" started-at="2018-12-26T14:44:28Z" finished-at="2018-12-26T14:45:16Z">
+      <class name="com.dubli.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dubli.qa.testcases.LoginPageTest@29774679]" name="setUp" is-config="true" duration-ms="21894" started-at="2018-12-26T14:44:28Z" finished-at="2018-12-26T14:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.dubli.qa.testcases.LoginPageTest@29774679]" name="loginPageTitleTest" duration-ms="441" started-at="2018-12-26T14:44:50Z" finished-at="2018-12-26T14:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dubli.qa.testcases.LoginPageTest@29774679]" name="tearDown" is-config="true" duration-ms="1716" started-at="2018-12-26T14:44:50Z" finished-at="2018-12-26T14:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dubli.qa.testcases.LoginPageTest@29774679]" name="setUp" is-config="true" duration-ms="17486" started-at="2018-12-26T14:44:52Z" finished-at="2018-12-26T14:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.dubli.qa.testcases.LoginPageTest@29774679]" name="loginTest" duration-ms="4450" started-at="2018-12-26T14:45:09Z" finished-at="2018-12-26T14:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dubli.qa.testcases.LoginPageTest@29774679]" name="tearDown" is-config="true" duration-ms="1988" started-at="2018-12-26T14:45:14Z" finished-at="2018-12-26T14:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dubli.qa.testcases.LoginPageTest -->
+    </test> <!-- Dubli App Test Cases -->
+  </suite> <!-- Dubli.com Application Test Automation Test Suite -->
+</testng-results>
